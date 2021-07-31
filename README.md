@@ -1,13 +1,13 @@
 ### Hello and welcome 👋, I'm Alpesh!
 
 <a href="https://www.linkedin.com/in/alpeshvijayapatil/">
-  <img align="right" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/AlpeshPatil34/AlpeshPatil34/blob/main/icons8-linkedin-30.png" />
 </a>
 <a href="https://www.kaggle.com/alpeshpatil342">
-  <img align="right" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  <img align="right" alt="Kaggle" width="22px" src="https://github.com/AlpeshPatil34/AlpeshPatil34/blob/main/4990950.png" />
 </a>
 <a href="https://www.instagram.com/alpeshpatil34/">
-  <img align="right" alt="Alpesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Alpesh's Instagram" width="22px" src="https://github.com/AlpeshPatil34/AlpeshPatil34/blob/main/icons8-twitter-30.png" />
 </a>
 
 <br />
